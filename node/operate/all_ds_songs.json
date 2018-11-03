@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180729",
-		"title": "良院讲台：这条路你们向来没有走过（书3:1-4:18；讲员：楊天成）",
-		"downUrl": "http://txly2.net/ly/audio/2018/ds/ds180729.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 46,
-		"artistName": "晨曦讲座",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201831/ds20180729/ds/ds180729.mp3",
-		"id": 46180729
-	},
-	{
 		"time": "20180730",
 		"title": "良院专区：学员见证；公布《教会增长》和《灵修操练》考题",
 		"downUrl": "http://txly2.net/ly/audio/2018/ds/ds180730.mp3",
@@ -1010,5 +999,16 @@
 		"artistName": "晨曦讲座",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201844/ds20181103/ds/ds181103.mp3",
 		"id": 46181103
+	},
+	{
+		"time": "20181104",
+		"title": "良院讲台：你们当转向我（亚1:3；提前1:5；提后4:5；启2:4-5，22:20；讲员：卢文牧师）",
+		"downUrl": "http://txly2.net/ly/audio/2018/ds/ds181104.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 46,
+		"artistName": "晨曦讲座",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201845/ds20181104/ds/ds181104.mp3",
+		"id": 46181104
 	}
 ]
