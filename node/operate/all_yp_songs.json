@@ -823,5 +823,16 @@
 		"artistName": "善牧良言",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201844/yp20181028/yp/yp181028.mp3",
 		"id": 39181028
+	},
+	{
+		"time": "20181104",
+		"title": "怜悯（下）",
+		"downUrl": "http://txly2.net/ly/audio/2018/yp/yp181104.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 39,
+		"artistName": "善牧良言",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201845/yp20181104/yp/yp181104.mp3",
+		"id": 39181104
 	}
 ]
