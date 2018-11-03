@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180415",
-		"title": "共度家人临终岁月（1）看创世记中雅各的临终",
-		"downUrl": "http://txly2.net/ly/audio/2018/bf/bf180415.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 1,
-		"artistName": "幸福满家园",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201816/bf20180415/bf/bf180415.mp3",
-		"id": 1180415
-	},
-	{
 		"time": "20180421",
 		"title": "共度家人临终岁月（2）要说出真相吗？（嘉宾：宝文老师）",
 		"downUrl": "http://txly2.net/ly/audio/2018/bf/bf180421.mp3",
@@ -625,5 +614,16 @@
 		"artistName": "幸福满家园",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201844/bf20181103/bf/bf181103.mp3",
 		"id": 1181103
+	},
+	{
+		"time": "20181104",
+		"title": "傅立德牧师根据圣经以房屋为例谈理想婚姻蓝图（2）打下地基──存敬畏基督的心；第一面墙──永久的原则",
+		"downUrl": "http://txly2.net/ly/audio/2018/bf/bf181104.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 1,
+		"artistName": "幸福满家园",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201845/bf20181104/bf/bf181104.mp3",
+		"id": 1181104
 	}
 ]
