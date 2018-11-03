@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180729",
-		"title": "受伤的子民神也使用（珥3:9-21）",
-		"downUrl": "http://txly2.net/ly/audio/2018/mw/mw180729.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 30,
-		"artistName": "旷野吗哪",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201831/mw20180729/mw/mw180729.mp3",
-		"id": 30180729
-	},
-	{
 		"time": "20180730",
 		"title": "天父都知道（太6:25-34）",
 		"downUrl": "http://txly2.net/ly/audio/2018/mw/mw180730.mp3",
@@ -1010,5 +999,16 @@
 		"artistName": "旷野吗哪",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201844/mw20181103/mw/mw181103.mp3",
 		"id": 30181103
+	},
+	{
+		"time": "20181104",
+		"title": "信心的脚步（书1:1-9）",
+		"downUrl": "http://txly2.net/ly/audio/2018/mw/mw181104.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 30,
+		"artistName": "旷野吗哪",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201845/mw20181104/mw/mw181104.mp3",
+		"id": 30181104
 	}
 ]
