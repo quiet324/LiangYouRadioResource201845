@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180727",
-		"title": "赞美旋律：卡利西密《耶弗他》",
-		"downUrl": "http://txly2.net/ly/audio/2018/cw/cw180727.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 51,
-		"artistName": "齐来颂扬",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201830/cw20180727/cw/cw180727.mp3",
-		"id": 51180727
-	},
-	{
 		"time": "20180730",
 		"title": "生命之歌：马克夫人《睡主怀中》；汤慕圣《归家》",
 		"downUrl": "http://txly2.net/ly/audio/2018/cw/cw180730.mp3",
@@ -724,5 +713,16 @@
 		"artistName": "齐来颂扬",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201844/cw20181102/cw/cw181102.mp3",
 		"id": 51181102
+	},
+	{
+		"time": "20181105",
+		"title": "生命之歌：宣信《唯独耶稣》、The Imperials《耶稣你是唯一》",
+		"downUrl": "http://txly2.net/ly/audio/2018/cw/cw181105.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 51,
+		"artistName": "齐来颂扬",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201845/cw20181105/cw/cw181105.mp3",
+		"id": 51181105
 	}
 ]
