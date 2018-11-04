@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180727",
-		"title": "教导儿女智财教育：第三课、善用红包教育（下）善用机会，学习慷慨",
-		"downUrl": "http://txly2.net/ly/audio/2018/up/up180727.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 20,
-		"artistName": "亲情不断电",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201830/up20180727/up/up180727.mp3",
-		"id": 20180727
-	},
-	{
 		"time": "20180730",
 		"title": "亲情厨房：水果传（4）梅子酒；与父母促膝谈：和睦相处",
 		"downUrl": "http://txly2.net/ly/audio/2018/up/up180730.mp3",
@@ -724,5 +713,16 @@
 		"artistName": "亲情不断电",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201844/up20181102/up/up181102.mp3",
 		"id": 20181102
+	},
+	{
+		"time": "20181105",
+		"title": "情绪与真理（6）分清楚界限，辨识自己的情绪（讲员：傅立德牧师）",
+		"downUrl": "http://txly2.net/ly/audio/2018/up/up181105.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 20,
+		"artistName": "亲情不断电",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201845/up20181105/up/up181105.mp3",
+		"id": 20181105
 	}
 ]
