@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180727",
-		"title": "情感交流站：出死入生",
-		"downUrl": "http://txly2.net/ly/audio/2018/ut/ut180727.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 18,
-		"artistName": "我们的时间",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201830/ut20180727/ut/ut180727.mp3",
-		"id": 18180727
-	},
-	{
 		"time": "20180730",
 		"title": "为神建立家室：爱锁",
 		"downUrl": "http://txly2.net/ly/audio/2018/ut/ut180730.mp3",
@@ -724,5 +713,16 @@
 		"artistName": "我们的时间",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201844/ut20181102/ut/ut181102.mp3",
 		"id": 18181102
+	},
+	{
+		"time": "20181105",
+		"title": "情感交流站：父亲",
+		"downUrl": "http://txly2.net/ly/audio/2018/ut/ut181105.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 18,
+		"artistName": "我们的时间",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201845/ut20181105/ut/ut181105.mp3",
+		"id": 18181105
 	}
 ]
