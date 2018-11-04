@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180727",
-		"title": "生命之歌",
-		"downUrl": "http://txly2.net/ly/audio/2018/gn/gn180727.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 22,
-		"artistName": "现代人的希望",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201830/gn20180727/gn/gn180727.mp3",
-		"id": 22180727
-	},
-	{
 		"time": "20180730",
 		"title": "聆听上帝的声音（1）",
 		"downUrl": "http://txly2.net/ly/audio/2018/gn/gn180730.mp3",
@@ -724,5 +713,16 @@
 		"artistName": "现代人的希望",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201844/gn20181102/gn/gn181102.mp3",
 		"id": 22181102
+	},
+	{
+		"time": "20181105",
+		"title": "在神手中的风筝──刘帆的故事",
+		"downUrl": "http://txly2.net/ly/audio/2018/gn/gn181105.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 22,
+		"artistName": "现代人的希望",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201845/gn20181105/gn/gn181105.mp3",
+		"id": 22181105
 	}
 ]
