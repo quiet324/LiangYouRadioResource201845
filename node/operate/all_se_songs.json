@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180730",
-		"title": "祝福你的丈夫，享受美好婚姻（5）依靠的心带你进入丰富之地",
-		"downUrl": "http://txly2.net/ly/audio/2018/se/se180730.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 19,
-		"artistName": "恋爱季节",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201831/se20180730/se/se180730.mp3",
-		"id": 19180730
-	},
-	{
 		"time": "20180731",
 		"title": "祝福你的丈夫，享受美好婚姻（6）摆正生命中的优先秩序，带来秩序正确的祝福",
 		"downUrl": "http://txly2.net/ly/audio/2018/se/se180731.mp3",
@@ -724,5 +713,16 @@
 		"artistName": "恋爱季节",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201845/se20181105/se/se181105.mp3",
 		"id": 19181105
+	},
+	{
+		"time": "20181106",
+		"title": "畅所欲言非梦想，深层沟通无障碍（2）夫妻是同一团队的队友，而不是监牢里的牢友。",
+		"downUrl": "http://txly2.net/ly/audio/2018/se/se181106.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 19,
+		"artistName": "恋爱季节",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201845/se20181106/se/se181106.mp3",
+		"id": 19181106
 	}
 ]
