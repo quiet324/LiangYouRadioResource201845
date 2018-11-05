@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180730",
-		"title": "神的安慰",
-		"downUrl": "http://txly2.net/ly/audio/2018/it/it180730.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 41,
-		"artistName": "与神同行",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201831/it20180730/it/it180730.mp3",
-		"id": 41180730
-	},
-	{
 		"time": "20180731",
 		"title": "神为人预备天家",
 		"downUrl": "http://txly2.net/ly/audio/2018/it/it180731.mp3",
@@ -724,5 +713,16 @@
 		"artistName": "与神同行",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201845/it20181105/it/it181105.mp3",
 		"id": 41181105
+	},
+	{
+		"time": "20181106",
+		"title": "十字架：神的心肠（2）",
+		"downUrl": "http://txly2.net/ly/audio/2018/it/it181106.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 41,
+		"artistName": "与神同行",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201845/it20181106/it/it181106.mp3",
+		"id": 41181106
 	}
 ]
