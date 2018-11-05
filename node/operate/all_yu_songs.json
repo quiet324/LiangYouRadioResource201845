@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180731",
-		"title": "绝妙生活系列：财富给予原则（3）",
-		"downUrl": "http://txly2.net/ly/audio/2018/yu/yu180731.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 7,
-		"artistName": "绝妙当家",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201831/yu20180731/yu/yu180731.mp3",
-		"id": 7180731
-	},
-	{
 		"time": "20180801",
 		"title": "绝妙工作101：从等你下课到等你下班",
 		"downUrl": "http://txly2.net/ly/audio/2018/yu/yu180801.mp3",
@@ -1008,5 +997,16 @@
 		"artistName": "绝妙当家",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201845/yu20181105/yu/yu181105.mp3",
 		"id": 7181105
+	},
+	{
+		"time": "20181106",
+		"title": "创译英文同乐会：患难生忍耐",
+		"downUrl": "http://txly2.net/ly/audio/2018/yu/yu181106.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 7,
+		"artistName": "绝妙当家",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201845/yu20181106/yu/yu181106.mp3",
+		"id": 7181106
 	}
 ]
