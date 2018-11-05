@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180731",
-		"title": "不会枉费（可14:3-9）",
-		"downUrl": "http://txly2.net/ly/audio/2018/mw/mw180731.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 30,
-		"artistName": "旷野吗哪",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201831/mw20180731/mw/mw180731.mp3",
-		"id": 30180731
-	},
-	{
 		"time": "20180801",
 		"title": "“等候神”的意义（撒上23:7-14；诗27:11-14）",
 		"downUrl": "http://txly2.net/ly/audio/2018/mw/mw180801.mp3",
@@ -1010,5 +999,16 @@
 		"artistName": "旷野吗哪",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201845/mw20181105/mw/mw181105.mp3",
 		"id": 30181105
+	},
+	{
+		"time": "20181106",
+		"title": "在风雨中歌唱（赛49:13-26）",
+		"downUrl": "http://txly2.net/ly/audio/2018/mw/mw181106.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 30,
+		"artistName": "旷野吗哪",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201845/mw20181106/mw/mw181106.mp3",
+		"id": 30181106
 	}
 ]
