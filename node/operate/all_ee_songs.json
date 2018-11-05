@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180731",
-		"title": "绽放生命的光芒：路德小传（7）",
-		"downUrl": "http://txly2.net/ly/audio/2018/ee/ee180731.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 29,
-		"artistName": "拥抱每一天",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201831/ee20180731/ee/ee180731.mp3",
-		"id": 29180731
-	},
-	{
 		"time": "20180801",
 		"title": "智慧语录：如果你选择活在别人眼里，那么你注定要死在别人嘴里；诗情细语话人生：诗篇的心灵之约（11）",
 		"downUrl": "http://txly2.net/ly/audio/2018/ee/ee180801.mp3",
@@ -1010,5 +999,16 @@
 		"artistName": "拥抱每一天",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201845/ee20181105/ee/ee181105.mp3",
 		"id": 29181105
+	},
+	{
+		"time": "20181106",
+		"title": "绽放生命的光芒：卫斯理小传（1）",
+		"downUrl": "http://txly2.net/ly/audio/2018/ee/ee181106.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 29,
+		"artistName": "拥抱每一天",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201845/ee20181106/ee/ee181106.mp3",
+		"id": 29181106
 	}
 ]
