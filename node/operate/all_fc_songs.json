@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180731",
-		"title": "我丑我自尽：在网络世界永不止息的欺凌故事",
-		"downUrl": "http://txly2.net/ly/audio/2018/fc/fc180731.mp3",
-		"duration": 860,
-		"size": "6.9M",
-		"artistId": 6,
-		"artistName": "微播出炉",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201831/fc20180731/fc/fc180731.mp3",
-		"id": 6180731
-	},
-	{
 		"time": "20180801",
 		"title": "追过的明星与拜过的偶像",
 		"downUrl": "http://txly2.net/ly/audio/2018/fc/fc180801.mp3",
@@ -724,5 +713,16 @@
 		"artistName": "微播出炉",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201845/fc20181106/fc/fc181106.mp3",
 		"id": 6181106
+	},
+	{
+		"time": "20181107",
+		"title": "安利自己的朋友圈帖子，让所有人点赞！",
+		"downUrl": "http://txly2.net/ly/audio/2018/fc/fc181107.mp3",
+		"duration": 860,
+		"size": "6.9M",
+		"artistId": 6,
+		"artistName": "微播出炉",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201845/fc20181107/fc/fc181107.mp3",
+		"id": 6181107
 	}
 ]
