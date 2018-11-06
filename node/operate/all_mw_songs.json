@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180801",
-		"title": "“等候神”的意义（撒上23:7-14；诗27:11-14）",
-		"downUrl": "http://txly2.net/ly/audio/2018/mw/mw180801.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 30,
-		"artistName": "旷野吗哪",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201831/mw20180801/mw/mw180801.mp3",
-		"id": 30180801
-	},
-	{
 		"time": "20180802",
 		"title": "在神手中（耶18:1-6）",
 		"downUrl": "http://txly2.net/ly/audio/2018/mw/mw180802.mp3",
@@ -1010,5 +999,16 @@
 		"artistName": "旷野吗哪",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201845/mw20181106/mw/mw181106.mp3",
 		"id": 30181106
+	},
+	{
+		"time": "20181107",
+		"title": "马利亚的“动”与“静”（约12:1-11）",
+		"downUrl": "http://txly2.net/ly/audio/2018/mw/mw181107.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 30,
+		"artistName": "旷野吗哪",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201845/mw20181107/mw/mw181107.mp3",
+		"id": 30181107
 	}
 ]
