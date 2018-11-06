@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180731",
-		"title": "弹指之间：《一生爱你》、《灵里生活》、《直到主耶稣再来时候》",
-		"downUrl": "http://txly2.net/ly/audio/2018/cw/cw180731.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 51,
-		"artistName": "齐来颂扬",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201831/cw20180731/cw/cw180731.mp3",
-		"id": 51180731
-	},
-	{
 		"time": "20180801",
 		"title": "心歌心曲：爱莉萨‧特纳《我祈祷你平安》",
 		"downUrl": "http://txly2.net/ly/audio/2018/cw/cw180801.mp3",
@@ -724,5 +713,16 @@
 		"artistName": "齐来颂扬",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201845/cw20181106/cw/cw181106.mp3",
 		"id": 51181106
+	},
+	{
+		"time": "20181107",
+		"title": "心歌心曲：天籁之声──紫布尔正若姊妹专访；《安静》、《唱大地之歌》",
+		"downUrl": "http://txly2.net/ly/audio/2018/cw/cw181107.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 51,
+		"artistName": "齐来颂扬",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201845/cw20181107/cw/cw181107.mp3",
+		"id": 51181107
 	}
 ]
