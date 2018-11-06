@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180731",
-		"title": "聆听上帝的声音（2）",
-		"downUrl": "http://txly2.net/ly/audio/2018/gn/gn180731.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 22,
-		"artistName": "现代人的希望",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201831/gn20180731/gn/gn180731.mp3",
-		"id": 22180731
-	},
-	{
 		"time": "20180801",
 		"title": "聆听上帝的声音（3）",
 		"downUrl": "http://txly2.net/ly/audio/2018/gn/gn180801.mp3",
@@ -724,5 +713,16 @@
 		"artistName": "现代人的希望",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201845/gn20181106/gn/gn181106.mp3",
 		"id": 22181106
+	},
+	{
+		"time": "20181107",
+		"title": "行在爱中（下）",
+		"downUrl": "http://txly2.net/ly/audio/2018/gn/gn181107.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 22,
+		"artistName": "现代人的希望",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201845/gn20181107/gn/gn181107.mp3",
+		"id": 22181107
 	}
 ]
