@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180801",
-		"title": "亚伯拉罕生以撒（3）（创21:17-21）",
-		"downUrl": "http://txly2.net/ly/audio/2018/th/th180801.mp3",
-		"duration": 860,
-		"size": "6.9M",
-		"artistId": 32,
-		"artistName": "真理之光",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201831/th20180801/th/th180801.mp3",
-		"id": 32180801
-	},
-	{
 		"time": "20180802",
 		"title": "亚伯拉罕生以撒（4）（创21:22-34）",
 		"downUrl": "http://txly2.net/ly/audio/2018/th/th180802.mp3",
@@ -1010,5 +999,16 @@
 		"artistName": "真理之光",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201845/th20181106/th/th181106.mp3",
 		"id": 32181106
+	},
+	{
+		"time": "20181107",
+		"title": "雅各从米斯巴到毗努伊勒（4）（创32:22-32）",
+		"downUrl": "http://txly2.net/ly/audio/2018/th/th181107.mp3",
+		"duration": 860,
+		"size": "6.9M",
+		"artistId": 32,
+		"artistName": "真理之光",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201845/th20181107/th/th181107.mp3",
+		"id": 32181107
 	}
 ]
