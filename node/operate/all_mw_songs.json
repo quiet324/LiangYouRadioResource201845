@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180803",
-		"title": "默然倚靠耶和华（诗37:1-11）",
-		"downUrl": "http://txly2.net/ly/audio/2018/mw/mw180803.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 30,
-		"artistName": "旷野吗哪",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201831/mw20180803/mw/mw180803.mp3",
-		"id": 30180803
-	},
-	{
 		"time": "20180804",
 		"title": "靠近主（诗59篇）",
 		"downUrl": "http://txly2.net/ly/audio/2018/mw/mw180804.mp3",
@@ -1010,5 +999,16 @@
 		"artistName": "旷野吗哪",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201846/mw20181108/mw/mw181108.mp3",
 		"id": 30181108
+	},
+	{
+		"time": "20181109",
+		"title": "神必保护圣民的脚步（犹17-25节）",
+		"downUrl": "http://txly2.net/ly/audio/2018/mw/mw181109.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 30,
+		"artistName": "旷野吗哪",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201846/mw20181109/mw/mw181109.mp3",
+		"id": 30181109
 	}
 ]
