@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180801",
-		"title": "好得无比，每一天：何时才受够？（太19:5、9）；建立生活的基石（8）（主持：刘芳）；我爱背金句：林前1:10",
-		"downUrl": "http://txly2.net/ly/audio/2018/dy/dy180801.mp3",
-		"duration": 3560,
-		"size": "28.5M",
-		"artistId": 24,
-		"artistName": "献上今天",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201831/dy20180801/dy/dy180801.mp3",
-		"id": 24180801
-	},
-	{
 		"time": "20180802",
 		"title": "好得无比，每一天：十一属于谁？（利27:30）；教会的种子（8）（主持：万峰）；我爱背金句：林前1:10",
 		"downUrl": "http://txly2.net/ly/audio/2018/dy/dy180802.mp3",
@@ -723,5 +712,16 @@
 		"artistName": "献上今天",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201845/dy20181107/dy/dy181107.mp3",
 		"id": 24181107
+	},
+	{
+		"time": "20181108",
+		"title": "好得无比，每一天：电子玫瑰念珠（太6:7-8）；天路历程（24）；我爱背金句：罗1:16",
+		"downUrl": "http://txly2.net/ly/audio/2018/dy/dy181108.mp3",
+		"duration": 3560,
+		"size": "28.5M",
+		"artistId": 24,
+		"artistName": "献上今天",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201846/dy20181108/dy/dy181108.mp3",
+		"id": 24181108
 	}
 ]
