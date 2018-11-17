@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180804",
-		"title": "智慧语录：这世代谁愿承认自己是有病的人？用智慧演绎人生：你好！好奇心——被疯传的复旦女教师陈果的一席话",
-		"downUrl": "http://txly2.net/ly/audio/2018/ee/ee180804.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 29,
-		"artistName": "拥抱每一天",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201831/ee20180804/ee/ee180804.mp3",
-		"id": 29180804
-	},
-	{
 		"time": "20180805",
 		"title": "智慧语录：永远只做一流的自己，而不做二流的别人；神的叮咛我最爱：要被圣灵充满",
 		"downUrl": "http://txly2.net/ly/audio/2018/ee/ee180805.mp3",
@@ -1010,5 +999,16 @@
 		"artistName": "拥抱每一天",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201846/ee20181109/ee/ee181109.mp3",
 		"id": 29181109
+	},
+	{
+		"time": "20181110",
+		"title": "智慧语录：光学之父开普勒的信仰格言；用智慧演绎人生：敬畏耶和华是智慧的开端",
+		"downUrl": "http://txly2.net/ly/audio/2018/ee/ee181110.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 29,
+		"artistName": "拥抱每一天",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201846/ee20181110/ee/ee181110.mp3",
+		"id": 29181110
 	}
 ]
