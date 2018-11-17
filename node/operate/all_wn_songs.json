@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20181030",
-		"title": "华夏颂扬：第一本华文诗本──《养心神诗》",
-		"downUrl": "http://txly2.net/ly/audio/2018/wn/wn181030.mp3",
-		"duration": 860,
-		"size": "6.9M",
-		"artistId": 66,
-		"artistName": "迎风传颂",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201844/wn20181030/wn/wn181030.mp3",
-		"id": 66181030
-	},
-	{
 		"time": "20181031",
 		"title": "圣诗之旅：早期基督教音乐如何发展起来",
 		"downUrl": "http://txly2.net/ly/audio/2018/wn/wn181031.mp3",
@@ -86,5 +75,16 @@
 		"artistName": "迎风传颂",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201846/wn20181108/wn/wn181108.mp3",
 		"id": 66181108
+	},
+	{
+		"time": "20181109",
+		"title": "璀璨音符：欣赏诗歌《耶和华你是我的神》、《主的恩典是一生之久》、《这一生最美的祝福》",
+		"downUrl": "http://txly2.net/ly/audio/2018/wn/wn181109.mp3",
+		"duration": 860,
+		"size": "6.9M",
+		"artistId": 66,
+		"artistName": "迎风传颂",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201846/wn20181109/wn/wn181109.mp3",
+		"id": 66181109
 	}
 ]
