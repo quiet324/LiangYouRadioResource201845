@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180802",
-		"title": "绝妙热话题：出来吧！扭蛋！",
-		"downUrl": "http://txly2.net/ly/audio/2018/yu/yu180802.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 7,
-		"artistName": "绝妙当家",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201831/yu20180802/yu/yu180802.mp3",
-		"id": 7180802
-	},
-	{
 		"time": "20180803",
 		"title": "绝妙小剧场：镜框里的钞票",
 		"downUrl": "http://txly2.net/ly/audio/2018/yu/yu180803.mp3",
@@ -1008,5 +997,16 @@
 		"artistName": "绝妙当家",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201845/yu20181107/yu/yu181107.mp3",
 		"id": 7181107
+	},
+	{
+		"time": "20181108",
+		"title": "绝妙热话题：与香气邂逅",
+		"downUrl": "http://txly2.net/ly/audio/2018/yu/yu181108.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 7,
+		"artistName": "绝妙当家",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201846/yu20181108/yu/yu181108.mp3",
+		"id": 7181108
 	}
 ]
