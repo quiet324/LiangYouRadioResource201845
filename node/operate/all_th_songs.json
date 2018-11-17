@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180803",
-		"title": "人子救主的教导（1）（路8:1-3）",
-		"downUrl": "http://txly2.net/ly/audio/2018/th/th180803.mp3",
-		"duration": 860,
-		"size": "6.9M",
-		"artistId": 32,
-		"artistName": "真理之光",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201831/th20180803/th/th180803.mp3",
-		"id": 32180803
-	},
-	{
 		"time": "20180804",
 		"title": "妇人与大红龙（2）（启12:5-9）",
 		"downUrl": "http://txly2.net/ly/audio/2018/th/th180804.mp3",
@@ -1010,5 +999,16 @@
 		"artistName": "真理之光",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201846/th20181108/th/th181108.mp3",
 		"id": 32181108
+	},
+	{
+		"time": "20181109",
+		"title": "人子救主的教导（1）（路10:1-7）",
+		"downUrl": "http://txly2.net/ly/audio/2018/th/th181109.mp3",
+		"duration": 860,
+		"size": "6.9M",
+		"artistId": 32,
+		"artistName": "真理之光",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201846/th20181109/th/th181109.mp3",
+		"id": 32181109
 	}
 ]
