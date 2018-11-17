@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180802",
-		"title": "亚伯拉罕生以撒（4）（创21:22-34）",
-		"downUrl": "http://txly2.net/ly/audio/2018/th/th180802.mp3",
-		"duration": 860,
-		"size": "6.9M",
-		"artistId": 32,
-		"artistName": "真理之光",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201831/th20180802/th/th180802.mp3",
-		"id": 32180802
-	},
-	{
 		"time": "20180803",
 		"title": "人子救主的教导（1）（路8:1-3）",
 		"downUrl": "http://txly2.net/ly/audio/2018/th/th180803.mp3",
@@ -1010,5 +999,16 @@
 		"artistName": "真理之光",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201845/th20181107/th/th181107.mp3",
 		"id": 32181107
+	},
+	{
+		"time": "20181108",
+		"title": "雅各与以扫相见（1）（创33:1-7）",
+		"downUrl": "http://txly2.net/ly/audio/2018/th/th181108.mp3",
+		"duration": 860,
+		"size": "6.9M",
+		"artistId": 32,
+		"artistName": "真理之光",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201846/th20181108/th/th181108.mp3",
+		"id": 32181108
 	}
 ]
