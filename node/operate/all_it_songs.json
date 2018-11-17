@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180801",
-		"title": "圣诞节的真意义",
-		"downUrl": "http://txly2.net/ly/audio/2018/it/it180801.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 41,
-		"artistName": "与神同行",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201831/it20180801/it/it180801.mp3",
-		"id": 41180801
-	},
-	{
 		"time": "20180802",
 		"title": "圣诞节：施与的时刻",
 		"downUrl": "http://txly2.net/ly/audio/2018/it/it180802.mp3",
@@ -724,5 +713,16 @@
 		"artistName": "与神同行",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201845/it20181107/it/it181107.mp3",
 		"id": 41181107
+	},
+	{
+		"time": "20181108",
+		"title": "我们的抉择（1）",
+		"downUrl": "http://txly2.net/ly/audio/2018/it/it181108.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 41,
+		"artistName": "与神同行",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201846/it20181108/it/it181108.mp3",
+		"id": 41181108
 	}
 ]
