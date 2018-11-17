@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180804",
-		"title": "圣经好好听：扫罗打胜仗",
-		"downUrl": "http://txly2.net/ly/audio/2018/pc/pc180804.mp3",
-		"duration": 860,
-		"size": "6.9M",
-		"artistId": 17,
-		"artistName": "爆米花",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201831/pc20180804/pc/pc180804.mp3",
-		"id": 17180804
-	},
-	{
 		"time": "20180806",
 		"title": "你来品品理：小晶晶不睡觉",
 		"downUrl": "http://txly2.net/ly/audio/2018/pc/pc180806.mp3",
@@ -867,5 +856,16 @@
 		"artistName": "爆米花",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201846/pc20181109/pc/pc181109.mp3",
 		"id": 17181109
+	},
+	{
+		"time": "20181110",
+		"title": "圣经好好听：圣殿盖好了",
+		"downUrl": "http://txly2.net/ly/audio/2018/pc/pc181110.mp3",
+		"duration": 860,
+		"size": "6.9M",
+		"artistId": 17,
+		"artistName": "爆米花",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201846/pc20181110/pc/pc181110.mp3",
+		"id": 17181110
 	}
 ]
