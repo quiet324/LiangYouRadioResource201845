@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180803",
-		"title": "心火故事：云南傈僳使者富能仁传记──《山雨》第2章：猿人（2）富能仁要如何操练自己的中文，向云南当地人传福音？",
-		"downUrl": "http://txly2.net/ly/audio/2018/ynf/ynf180803.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 58,
-		"artistName": "爱在人间（云南话）",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201831/ynf20180803/ynf/ynf180803.mp3",
-		"id": 58180803
-	},
-	{
 		"time": "20180804",
 		"title": "学道篇：研经与释经──圣经与修辞（2）",
 		"downUrl": "http://txly2.net/ly/audio/2018/ynf/ynf180804.mp3",
@@ -1010,5 +999,16 @@
 		"artistName": "爱在人间（云南话）",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201846/ynf20181108/ynf/ynf181108.mp3",
 		"id": 58181108
+	},
+	{
+		"time": "20181109",
+		"title": "心火故事：云南傈僳使者富能仁传记──《山雨》",
+		"downUrl": "http://txly2.net/ly/audio/2018/ynf/ynf181109.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 58,
+		"artistName": "爱在人间（云南话）",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201846/ynf20181109/ynf/ynf181109.mp3",
+		"id": 58181109
 	}
 ]
