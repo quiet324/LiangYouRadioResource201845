@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180802",
-		"title": "大卫的热切与际遇系列：凯旋之歌（2）",
-		"downUrl": "http://txly2.net/ly/audio/2018/iv/iv180802.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 42,
-		"artistName": "生活之光",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201831/iv20180802/iv/iv180802.mp3",
-		"id": 42180802
-	},
-	{
 		"time": "20180803",
 		"title": "大卫的热切与际遇系列：敬虔者也愚昧（1）",
 		"downUrl": "http://txly2.net/ly/audio/2018/iv/iv180803.mp3",
@@ -724,5 +713,16 @@
 		"artistName": "生活之光",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201846/iv20181108/iv/iv181108.mp3",
 		"id": 42181108
+	},
+	{
+		"time": "20181109",
+		"title": "'特别信息：事工活力的要素（2）",
+		"downUrl": "http://txly2.net/ly/audio/2018/iv/iv181109.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 42,
+		"artistName": "生活之光",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201846/iv20181109/iv/iv181109.mp3",
+		"id": 42181109
 	}
 ]
