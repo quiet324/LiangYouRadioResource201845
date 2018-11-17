@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180802",
-		"title": "宣教心之路：地方教会──差传策略基地（主持：姚谦、杨天成）",
-		"downUrl": "http://txly2.net/ly/audio/2018/ds/ds180802.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 46,
-		"artistName": "晨曦讲座",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201831/ds20180802/ds/ds180802.mp3",
-		"id": 46180802
-	},
-	{
 		"time": "20180803",
 		"title": "从布道到培训：别离的劝勉（主持：卢文、周虹）",
 		"downUrl": "http://txly2.net/ly/audio/2018/ds/ds180803.mp3",
@@ -1010,5 +999,16 @@
 		"artistName": "晨曦讲座",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201845/ds20181107/ds/ds181107.mp3",
 		"id": 46181107
+	},
+	{
+		"time": "20181108",
+		"title": "宣教心之路：宣教士关顾的重要（主持：姚谦、林诚）",
+		"downUrl": "http://txly2.net/ly/audio/2018/ds/ds181108.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 46,
+		"artistName": "晨曦讲座",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201846/ds20181108/ds/ds181108.mp3",
+		"id": 46181108
 	}
 ]
