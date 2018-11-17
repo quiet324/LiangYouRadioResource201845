@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20181029",
-		"title": "心中有歌：介绍节目安排。歌曲：《你过的怎样》、《我很幸福》、《我已懂的事》",
-		"downUrl": "http://txly2.net/ly/audio/2018/wn/wn181029.mp3",
-		"duration": 860,
-		"size": "6.9M",
-		"artistId": 66,
-		"artistName": "迎风传颂",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201844/wn20181029/wn/wn181029.mp3",
-		"id": 66181029
-	},
-	{
 		"time": "20181030",
 		"title": "华夏颂扬：第一本华文诗本──《养心神诗》",
 		"downUrl": "http://txly2.net/ly/audio/2018/wn/wn181030.mp3",
@@ -86,5 +75,16 @@
 		"artistName": "迎风传颂",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201845/wn20181107/wn/wn181107.mp3",
 		"id": 66181107
+	},
+	{
+		"time": "20181108",
+		"title": "音乐灵修：美好的团契",
+		"downUrl": "http://txly2.net/ly/audio/2018/wn/wn181108.mp3",
+		"duration": 860,
+		"size": "6.9M",
+		"artistId": 66,
+		"artistName": "迎风传颂",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201846/wn20181108/wn/wn181108.mp3",
+		"id": 66181108
 	}
 ]
