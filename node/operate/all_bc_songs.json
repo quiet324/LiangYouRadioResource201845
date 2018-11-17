@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180802",
-		"title": "信心日引：智慧的使用神所赐的（创13:2）；大阅读家：第六章、击杀恶龙的神-2",
-		"downUrl": "http://txly2.net/ly/audio/2018/bc/bc180802.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 10,
-		"artistName": "书香园地",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201831/bc20180802/bc/bc180802.mp3",
-		"id": 10180802
-	},
-	{
 		"time": "20180803",
 		"title": "黑暗中的舞者：第十五章、田间百合花；第十六章、特别的敬拜者",
 		"downUrl": "http://txly2.net/ly/audio/2018/bc/bc180803.mp3",
@@ -724,5 +713,16 @@
 		"artistName": "书香园地",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201846/bc20181108/bc/bc181108.mp3",
 		"id": 10181108
+	},
+	{
+		"time": "20181109",
+		"title": "彩虹花园：第八章、彩虹贝壳-2；第九章、山毛榉林里发生的事-1",
+		"downUrl": "http://txly2.net/ly/audio/2018/bc/bc181109.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 10,
+		"artistName": "书香园地",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201846/bc20181109/bc/bc181109.mp3",
+		"id": 10181109
 	}
 ]
