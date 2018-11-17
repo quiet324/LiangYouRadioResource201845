@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180802",
-		"title": "好得无比，每一天：十一属于谁？（利27:30）；教会的种子（8）（主持：万峰）；我爱背金句：林前1:10",
-		"downUrl": "http://txly2.net/ly/audio/2018/dy/dy180802.mp3",
-		"duration": 3560,
-		"size": "28.5M",
-		"artistId": 24,
-		"artistName": "献上今天",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201831/dy20180802/dy/dy180802.mp3",
-		"id": 24180802
-	},
-	{
 		"time": "20180803",
 		"title": "好得无比，每一天：偿还你所欠上帝的（林后8:9）；健康咨询站（8）（主持：李重恩、周彩云；嘉宾：陈医生）；我爱背金句：林前1:10",
 		"downUrl": "http://txly2.net/ly/audio/2018/dy/dy180803.mp3",
@@ -723,5 +712,16 @@
 		"artistName": "献上今天",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201846/dy20181108/dy/dy181108.mp3",
 		"id": 24181108
+	},
+	{
+		"time": "20181109",
+		"title": "好得无比，每一天：PADD综合症（弗5:28-29）；天路历程（25-26）；我爱背金句：罗1:16（热线时间）",
+		"downUrl": "http://txly2.net/ly/audio/2018/dy/dy181109.mp3",
+		"duration": 3560,
+		"size": "28.5M",
+		"artistId": 24,
+		"artistName": "献上今天",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201846/dy20181109/dy/dy181109.mp3",
+		"id": 24181109
 	}
 ]
