@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180803",
-		"title": "皮小弟与妙阿姨：出卖笑容的男孩（2）",
-		"downUrl": "http://txly2.net/ly/audio/2018/pc/pc180803.mp3",
-		"duration": 860,
-		"size": "6.9M",
-		"artistId": 17,
-		"artistName": "爆米花",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201831/pc20180803/pc/pc180803.mp3",
-		"id": 17180803
-	},
-	{
 		"time": "20180804",
 		"title": "圣经好好听：扫罗打胜仗",
 		"downUrl": "http://txly2.net/ly/audio/2018/pc/pc180804.mp3",
@@ -867,5 +856,16 @@
 		"artistName": "爆米花",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201846/pc20181108/pc/pc181108.mp3",
 		"id": 17181108
+	},
+	{
+		"time": "20181109",
+		"title": "皮小弟与妙阿姨：狮子坑的奇迹",
+		"downUrl": "http://txly2.net/ly/audio/2018/pc/pc181109.mp3",
+		"duration": 860,
+		"size": "6.9M",
+		"artistId": 17,
+		"artistName": "爆米花",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201846/pc20181109/pc/pc181109.mp3",
+		"id": 17181109
 	}
 ]
